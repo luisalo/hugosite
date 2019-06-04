@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Luis Alonso-Ovalle</title>
+    <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/</link>
+    <description>Recent content in Posts on Luis Alonso-Ovalle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 19:50:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NELS 49 Paper</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/nels49/</link>
+      <pubDate>Mon, 03 Jun 2019 19:50:40 -0400</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/nels49/</guid>
+      <description>Alonso-Ovalle, Luis and Vincent Rouillard (forthcoming) Number Inflection, Spanish Bare Interrogatives, and Higher-Order Quantification, Proceedings of 49th Meeting of the North East Linguistic Society.</description>
+    </item>
+    
+    <item>
+      <title>SALT 29 slides</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/salt2019slides/</link>
+      <pubDate>Mon, 03 Jun 2019 17:16:02 -0400</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/salt2019slides/</guid>
+      <description>&amp;ldquo;Neutralizing Free Choice Items via Maximal Domain Restriction: Farsi -i Indefinites&amp;rdquo; (with Esmail Moghiseh), Semantics and Linguistic Theory 29, University of California at Los Angeles, May 18, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/my-first-post/</link>
+      <pubDate>Fri, 08 Mar 2019 16:29:16 -0500</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/my-first-post/</guid>
+      <description>I have updated my personal website with the help of Hugo. You can browse my work here</description>
+    </item>
+    
+  </channel>
+</rss>

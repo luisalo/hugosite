@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Alonso-Ovalle</title>
+    <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/</link>
+    <description>Recent content on Luis Alonso-Ovalle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 19:50:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NELS 49 Paper</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/nels49/</link>
+      <pubDate>Mon, 03 Jun 2019 19:50:40 -0400</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/nels49/</guid>
+      <description>Alonso-Ovalle, Luis and Vincent Rouillard (forthcoming) Number Inflection, Spanish Bare Interrogatives, and Higher-Order Quantification, Proceedings of 49th Meeting of the North East Linguistic Society.</description>
+    </item>
+    
+    <item>
+      <title>SALT 29 slides</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/salt2019slides/</link>
+      <pubDate>Mon, 03 Jun 2019 17:16:02 -0400</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/salt2019slides/</guid>
+      <description>&amp;ldquo;Neutralizing Free Choice Items via Maximal Domain Restriction: Farsi -i Indefinites&amp;rdquo; (with Esmail Moghiseh), Semantics and Linguistic Theory 29, University of California at Los Angeles, May 18, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/my-first-post/</link>
+      <pubDate>Fri, 08 Mar 2019 16:29:16 -0500</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/posts/my-first-post/</guid>
+      <description>I have updated my personal website with the help of Hugo. You can browse my work here</description>
+    </item>
+    
+    <item>
+      <title>Luis Alonso-Ovalle</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/about/</guid>
+      <description>Associate Professor, Chair
+Department of Linguistics
+McGill University
+1085 Dr. Penfield
+Montreal, Canada, H3A 1A7
+
+I work on semantics. I live with Sandra and Diego. I like croissants and bending forks with mind power.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.linguistics.mcgill.ca/~luis.alonso-ovalle/publications/</guid>
+      <description>[Handouts, etc] [Papers] [Dissertation]
+Handouts, etc.  Do Scalar Alternatives Provide Enough Truthmakers? (A Note on Santorio, Paolo (2015) Alternatives and Truthmakers in Conditional Semantics), Invited commentary delivered at the 90th Annual Meeting of the American Philosophical Association Pacific Division. San Francisco, CA, March 31 2016.
+&amp;ldquo;Neutralizing Free Choice Items via Maximal Domain Restriction: Farsi -i Indefinites&amp;rdquo; (with Esmail Moghiseh), Semantics and Linguistic Theory 29, University of California at Los Angeles, May 18, 2018.</description>
+    </item>
+    
+  </channel>
+</rss>
